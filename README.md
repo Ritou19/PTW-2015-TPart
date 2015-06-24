@@ -3,6 +3,7 @@
 |         |       |
 | ------- | ----- |
 | Boris  |  bfritscher.github.io      |
+| Stéphane  |  stephanegrangier.github.io      |
 
 Stéphane
 Steven Habegger

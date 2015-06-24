@@ -5,5 +5,6 @@
 | Boris  |  bfritscher.github.io      |
 | Stéphane  |  stephanegrangier.github.io      |
 | Floriane | florianesapin.github.io |
+| Steven | ritou19.github.io |
 Stéphane
 Steven Habegger
